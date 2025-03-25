@@ -11,7 +11,7 @@
 // @grant        GM_xmlhttpRequest
 // ==/UserScript==
 
-console.log('asdasdasd');
+
 (async() => {
     console.log("Попили, блин, пивка")
     //------------------------------------------------------------------
